@@ -3,7 +3,7 @@ pragma solidity ^0.5.0;
 contract Token {
     string  public name = "Uni Token";
     string  public symbol = "UNI";
-    uint256 public totalSupply = 1000000000000000000000000; // 1 triệu tỷ tỷ
+    uint256 public totalSupply = 1000000000000000000000000; // 1 triệu 
     uint8   public decimals = 18;
 
     event Transfer(
